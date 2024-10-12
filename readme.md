@@ -1,7 +1,15 @@
-# Run npm install to install dependencies
+# Installation
 
-## Requires MongoDB
+```bash
+npm install
+```
 
-### Refer to src/index.js Mongo section for DB information
+Requires MongoDB
 
-### run node index.js to start webpage at localhots:3000
+## Refer to src/index.js Mongo section for DB information
+
+```bash
+node index.js
+```
+
+
